@@ -11,8 +11,9 @@ This repository includes a growing set of beginner-friendly and foundational C++
 - ✅ **Banking System** – A simple command-line banking application to manage accounts and transactions.
 <!--- 🧮 **Calculator** – Performs basic arithmetic operations using functions and control structures.-->
 - 🎲 **Guess the Number** – A simple number guessing game using loops and conditional logic.
-- 🔎 **Sort an array** - Sort the elements of an array.
+- 🟰 **Sort an array** - Sort the elements of an array.
 - 🎮 **Rock paper siccor** - A simple rock paper siccor game .
+- 🔎 **Search an array element** - A simple code to search an element exists or not in an array.
 <!--- 📚 **Student Record System** – A mini database using structs and file handling.
 - 🕹 **Tic Tac Toe Game** – A classic two-player game using arrays and logic.-->
 
